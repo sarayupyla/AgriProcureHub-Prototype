@@ -1,0 +1,17 @@
+Government Mandi Procurement Portal - Gate Pass & Token Guidelines
+
+Booking a Token:
+Farmers must book a token through the online portal before arriving at the Mandi. The token reserves a specific time slot for bringing the harvest to the procurement center. 
+
+Required Documents at the Gate:
+Farmers must present the following documents at the Mandi gate:
+1. The digital or printed Token ID.
+2. Original Aadhaar Card.
+3. Updated Land Records (Patta/Chitta).
+4. Bank Passbook (for direct benefit transfer of MSP payments).
+
+Queue System Rules:
+- Farmers are only allowed to enter the Mandi during their designated time slot.
+- The queue status on the portal shows how many farmers are currently ahead of you in your specific time slot.
+- If a farmer misses their designated time slot, their token becomes invalid, and they must book a new token for the next available day.
+- Crop weighing and quality inspection will occur sequentially based on the token number within that hour.
